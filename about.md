@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a web fanatic specializing in web development using Ruby on Rails with React.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Also, I have 2 dogs, 2 cats, and betta fish who have just became my new outside of computer hobby. Bettas really do have personalities and they respond to you, it has surpriced me.So whenever I'm not on the web, I'm playing with my fish or my cats or probably catching up on my He-Man episodes.
 
 ### Contact me
 
