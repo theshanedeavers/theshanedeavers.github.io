@@ -1,0 +1,4 @@
+layout	title
+post!
+Hunting for Gems!
+For my first project using Ruby2D, I'm creating a game based on a little story I had in high school inspired by He-Man and the Masters of the Universe titled, "Lords of the Claw". Basically the story is about a bumbling Praying Mantis which dreams of respect who seeks out the legendary Claw that grants the owner super strength and wisdom enough to become his own hero. It's a tiny short story I wrote after meeting a Praying Mantis on my front porch who I called, LeRoy. I never met a Praying Mantis I didn't like and since I enjoy the insects and He-Man and the story of King Arthur this is my way to honor those 3 favorite subjects of mine and another bonus is I get to create something using Ruby which I'm passionate about as well. So keep watching for further information and details on its process and pics. Until next time.
